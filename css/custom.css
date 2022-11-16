@@ -440,3 +440,7 @@ ul {
     display: flex;
     align-items: center;
 }
+
+.orange_po{
+    width: 80px !important;
+}
